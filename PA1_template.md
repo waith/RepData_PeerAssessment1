@@ -223,3 +223,5 @@ xyplot(new_step_avg$steps ~ new_step_avg$interval | date, data = new_step_avg,
 
 
 It is shown in the panel plot that the average number of steps taken are different,averaged across all weekday days and weekend days
+
+
